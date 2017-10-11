@@ -1,2 +1,2 @@
-# newest_desapointment
-Game so far will be a 3D PVP
+# newest_disappointment
+Game so far will be a 3D PVP until further changes...
